@@ -13,7 +13,7 @@ Todo aquele codigo clichê para fazer APIs simples e falta de tempo e ou conheci
 
 ### Os desafios
 
-- [ ] Criar uma forma amigavel e de facil de escrever APIs com nenhum ou pouco codigo.
+- [ ] Criar uma forma fácil e amigavel para escrever APIs com nenhum ou pouco codigo.
 - [ ] Alteração da estrutura e regra de negocios da API em produção.
 - [ ] Dar flexibilidade para rodar codigo para regras de negocios personalizadas do usuário.
 - [ ] Componetização e a possibilidade de criar um conjunto de End-Points grande e complexo porem com fácilidade de manutenção.
